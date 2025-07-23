@@ -2,3 +2,5 @@
 
 for numeros in range(1,31,3):
     print(f'{numeros}')
+
+    
